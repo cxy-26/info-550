@@ -9,3 +9,11 @@ output: github_document
 Here is some text
 
 git init
+
+# create a commit
+
+git status
+
+git add
+
+git commit
