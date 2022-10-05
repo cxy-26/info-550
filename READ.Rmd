@@ -1,0 +1,11 @@
+---
+title: My first git repo
+author: Xinyue Chen
+output: github_document
+---
+
+# my firsts commit
+
+Here is some text
+
+git init
