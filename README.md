@@ -1,0 +1,51 @@
+My first git repo
+================
+Xinyue Chen
+
+# my firsts commit
+
+Here is some text
+
+git init
+
+# create a commit
+
+git status
+
+git add
+
+git commit -m
+
+git log –oneline
+
+git checkout
+
+git diff
+
+git rm
+
+.gitignore
+
+git reset –hard, soft, mixed
+
+git revert
+
+# createa new branch
+
+git branch
+
+git checkout
+
+# merge code in different branch
+
+git merge
+
+# get rid of the test branch
+
+git branch -d test
+
+# conflict merge
+
+# directly create a branch
+
+git checkout -b
